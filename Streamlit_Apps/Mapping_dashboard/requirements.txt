@@ -1,5 +1,5 @@
-streamlit 
+streamlit
 geopandas 
-pandas 
+pandas
 matplotlib
 leafmap
